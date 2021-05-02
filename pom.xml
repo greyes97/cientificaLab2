@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>gt.edu.umg.ingenieria.sistemas.ingenieria_software.lab2</groupId>
 	<artifactId>cientificCalc</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v1</version>
 	<name>cientificCalc</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -36,7 +36,7 @@
 		<dependency>
 			    <groupId>gt.edu.umg.ingenieria.sistemas.ingenieria_software.lab2</groupId>
 			    <artifactId>trigonometriCalc</artifactId>
-			    <version>0.0.1-20210502.153132-1</version>
+			    <version>v1</version>
 		</dependency>
 	</dependencies>
 

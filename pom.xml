@@ -34,10 +34,10 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-		    <groupId>gt.edu.umg.ingenieria.sistemas.ingenieria_software.lab2</groupId>
-		    <artifactId>trigonometriCalc</artifactId>
-		    <version>v1</version>
-	</dependency>
+			    <groupId>gt.edu.umg.ingenieria.sistemas.ingenieria_software.lab2</groupId>
+			    <artifactId>trigonometriCalc</artifactId>
+			    <version>0.0.1-20210502.153132-1</version>
+		</dependency>
 	</dependencies>
 
 	<build>

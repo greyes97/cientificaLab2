@@ -11,7 +11,7 @@ pipeline{
 					id: 'DEPLOYADOR',
 					serverId: 'lab2jfrog',
 					releaseRepo: 'Laboratorio2',
-					snapshotRepo: '',
+					snapshotRepo: 'Laboratorio2',
 				)
 				rtMavenRun (
 					pom: 'pom.xml',
